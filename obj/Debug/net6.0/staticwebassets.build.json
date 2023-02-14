@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2XdBcWObWdzTfmsYDQXWQ+DFI07VMzELwn1VCcwEcAk=",
+  "Source": "TetsTaskRestJsonApi",
+  "BasePath": "_content/TetsTaskRestJsonApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
